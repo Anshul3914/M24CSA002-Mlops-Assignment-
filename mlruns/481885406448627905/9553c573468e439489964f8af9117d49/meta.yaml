@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anshul/M24CSA002-Mlops-Assignment-/mlruns/481885406448627905/9553c573468e439489964f8af9117d49/artifacts
+end_time: 1727722548779
+entry_point_name: ''
+experiment_id: '481885406448627905'
+lifecycle_stage: active
+run_id: 9553c573468e439489964f8af9117d49
+run_name: Linear_Regression
+run_uuid: 9553c573468e439489964f8af9117d49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727722546837
+status: 3
+tags: []
+user_id: anshul

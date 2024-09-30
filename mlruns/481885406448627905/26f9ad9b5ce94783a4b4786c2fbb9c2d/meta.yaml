@@ -1,0 +1,16 @@
+artifact_uri: file:///home/anshul/M24CSA002-Mlops-Assignment-/mlruns/481885406448627905/26f9ad9b5ce94783a4b4786c2fbb9c2d/artifacts
+deleted_time: 1727722627475
+end_time: 1727721711041
+entry_point_name: ''
+experiment_id: '481885406448627905'
+lifecycle_stage: deleted
+run_id: 26f9ad9b5ce94783a4b4786c2fbb9c2d
+run_name: Best_Model
+run_uuid: 26f9ad9b5ce94783a4b4786c2fbb9c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727721709767
+status: 3
+tags: []
+user_id: anshul

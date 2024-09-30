@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anshul/M24CSA002-Mlops-Assignment-/mlruns/481885406448627905/f51ae816a440451c8911f243d62e23df/artifacts
+end_time: 1727717766438
+entry_point_name: ''
+experiment_id: '481885406448627905'
+lifecycle_stage: active
+run_id: f51ae816a440451c8911f243d62e23df
+run_name: Random_Forest
+run_uuid: f51ae816a440451c8911f243d62e23df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727717764983
+status: 3
+tags: []
+user_id: anshul

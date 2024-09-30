@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727721711039
+current_stage: None
+description: null
+last_updated_timestamp: 1727721711039
+name: Best_Random_Forest
+run_id: 26f9ad9b5ce94783a4b4786c2fbb9c2d
+run_link: null
+source: file:///home/anshul/M24CSA002-Mlops-Assignment-/mlruns/481885406448627905/26f9ad9b5ce94783a4b4786c2fbb9c2d/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///home/anshul/M24CSA002-Mlops-Assignment-/mlruns/481885406448627905/26f9ad9b5ce94783a4b4786c2fbb9c2d/artifacts/best_model
+user_id: null
+version: 1
